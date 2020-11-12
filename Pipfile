@@ -41,7 +41,7 @@ urllib3 = "==1.25.9"
 wcwidth = "==0.1.9"
 wrapt = "==1.12.1"
 zipp = "==3.1.0"
-Django = "==3.0.5"
+Django = "==3.0.7"
 PyJWT = "==1.7.1"
 
 [requires]
